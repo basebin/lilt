@@ -1,0 +1,27 @@
+# Local Android and Gradle state
+.gradle/
+**/build/
+local.properties
+
+# IDE and OS files
+.idea/
+.DS_Store
+**/.DS_Store
+
+# Firebase CLI auth/cache; Firebase project config stays in source
+.firebase-config/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Generated release artifacts
+release/
+*.apk
+*.aab
+*.ap_
+
+# Local signing material
+*.jks
+*.keystore
+*.p12
+*.pem

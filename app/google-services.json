@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397758650166",
+    "project_id": "lilt-messenger-1262000",
+    "storage_bucket": "lilt-messenger-1262000.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397758650166:android:424621de48eee0f909c597",
+        "android_client_info": {
+          "package_name": "com.lilt.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy1KN-vtbA93fJt18xWEW2CkxjVpCgOvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
