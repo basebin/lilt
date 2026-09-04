@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/lilt/main/.github/assets/thumbnail.png" alt="lilt" width="100%">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/bniladridas/lilt/main/docs/assets/hero-image.png" alt="Lilt hero image" width="720">
 </p>
 
